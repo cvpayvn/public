@@ -25,14 +25,14 @@
     "bankName": "VIB_Ngân hàng TMCP Quốc tế (VIB)"
   },
   {
-    "bankCode": "CTG",
-    "logo": "https://api.vietqr.io/img/CTG.png",
-    "bankName": "CTG_Ngân hàng TMCP Công Thương (VietinBank)"
+    "bankCode": "ICB",
+    "logo": "https://api.vietqr.io/img/ICB.png",
+    "bankName": "ICB_Ngân hàng TMCP Công Thương (VietinBank)"
   },
   {
-    "bankCode": "EIB",
-    "logo": "https://api.vietqr.io/img/EIB.png",
-    "bankName": "EIB_Ngân hàng TMCP Xuất Nhập Khẩu Việt Nam (Eximbank)"
+    "bankCode": "EXB",
+    "logo": "https://api.vietqr.io/img/EXB.png",
+    "bankName": "EXB_Ngân hàng TMCP Xuất Nhập Khẩu Việt Nam (Eximbank)"
   },
   {
     "bankCode": "ACB",
@@ -50,9 +50,9 @@
     "bankName": "MSB_Ngân hàng TMCP Hàng Hải (MariTimeBank)"
   },
   {
-    "bankCode": "NVB",
-    "logo": "https://api.vietqr.io/img/NVB.png",
-    "bankName": "NVB_Ngân hàng TMCP Quốc Dân (NCB)"
+    "bankCode": "NCB",
+    "logo": "https://api.vietqr.io/img/NCB.png",
+    "bankName": "NCB_Ngân hàng TMCP Quốc Dân (NCB)"
   },
   {
     "bankCode": "VAB",
@@ -70,9 +70,9 @@
     "bankName": "STB_Ngân hàng TMCP Sài Gòn Thương Tín (Sacombank)"
   },
   {
-    "bankCode": "NASB",
-    "logo": "https://api.vietqr.io/img/NASB.png",
-    "bankName": "NASB_Ngân hàng TMCP Bắc Á (BAC A Bank)"
+    "bankCode": "BAB",
+    "logo": "https://api.vietqr.io/img/BAB.png",
+    "bankName": "BAB_Ngân hàng TMCP Bắc Á (BAC A Bank)"
   },
   {
     "bankCode": "GPB",
@@ -80,9 +80,9 @@
     "bankName": "GPB_Ngân hàng TM TNHH MTV Dầu Khí Toàn Cầu (GPBank)"
   },
   {
-    "bankCode": "VARB",
-    "logo": "https://api.vietqr.io/img/VARB.png",
-    "bankName": "VARB_Ngân hàng Nông Nghiệp và PTNT (Agribank)"
+    "bankCode": "AGB",
+    "logo": "https://api.vietqr.io/img/AGB.png",
+    "bankName": "AGB_Ngân hàng Nông Nghiệp và PTNT (Agribank)"
   },
   {
     "bankCode": "BIDV",
@@ -122,7 +122,7 @@
   {
     "bankCode": "ABB",
     "logo": "https://api.vietqr.io/img/ABB.png",
-    "bankName": "ABB_Ngân hàng TMCP An Bình"
+    "bankName": "ABB_Ngân hàng TMCP An Bình (ABBANK)"
   },
   {
     "bankCode": "SCB",
@@ -135,9 +135,9 @@
     "bankName": "IVB_Ngân hàng trách nhiệm hữu hạn Indovina (IVB)"
   },
   {
-    "bankCode": "VCCB",
-    "logo": "https://api.vietqr.io/img/VCCB.png",
-    "bankName": "VCCB_Ngân hàng TMCP Bản Việt (VCCB)"
+    "bankCode": "GDB/VCCB",
+    "logo": "https://api.vietqr.io/img/GDB/VCCB.png",
+    "bankName": "GDB/VCCB_Ngân hàng TMCP Bản Việt (VCCB)"
   },
   {
     "bankCode": "OCB",
@@ -145,29 +145,29 @@
     "bankName": "OCB_Ngân hàng TMCP Phương Đông (OCB)"
   },
   {
-    "bankCode": "Seab",
-    "logo": "https://api.vietqr.io/img/Seab.png",
-    "bankName": "Seab_Ngân hàng TMCP Đông Nam Á (SEA)"
+    "bankCode": "SEA",
+    "logo": "https://api.vietqr.io/img/SEA.png",
+    "bankName": "SEA_Ngân hàng TMCP Đông Nam Á (SEA)"
   },
   {
-    "bankCode": "LPB",
-    "logo": "https://api.vietqr.io/img/LPB.png",
-    "bankName": "LPB_Ngân hàng Thương mại Cổ phần Lộc Phát Việt Nam (LPBank)"
+    "bankCode": "LVB",
+    "logo": "https://api.vietqr.io/img/LVB.png",
+    "bankName": "LVB_Ngân hàng Thương mại Cổ phần Lộc Phát Việt Nam (LPBank)"
   },
   {
-    "bankCode": "WOO",
-    "logo": "https://api.vietqr.io/img/WOO.png",
-    "bankName": "WOO_Ngân hàng TNHH Woori Việt Nam (WRB)"
+    "bankCode": "WRB",
+    "logo": "https://api.vietqr.io/img/WRB.png",
+    "bankName": "WRB_Ngân hàng TNHH Woori Việt Nam (WRB)"
   },
   {
-    "bankCode": "SVB",
-    "logo": "https://api.vietqr.io/img/SVB.png",
-    "bankName": "SVB_Ngân hàng TNHH MTV Shinhan Việt Nam(SHNB)"
+    "bankCode": "SHNB",
+    "logo": "https://api.vietqr.io/img/SHNB.png",
+    "bankName": "SHNB_Ngân hàng TNHH MTV Shinhan Việt Nam(SHNB)"
   },
   {
-    "bankCode": "PVCB",
-    "logo": "https://api.vietqr.io/img/PVCB.png",
-    "bankName": "PVCB_Ngân hàng TMCP Đại Chúng Việt Nam (PVcomBank）"
+    "bankCode": "PVCOMBANK",
+    "logo": "https://api.vietqr.io/img/PVCOMBANK.png",
+    "bankName": "PVCOMBANK_Ngân hàng TMCP Đại Chúng Việt Nam (PVcomBank）"
   },
   {
     "bankCode": "PBVN",
@@ -210,9 +210,124 @@
     "bankName": "HLB_Ngân hàng TNHH MTV Hong Leong Viet Nam"
   },
   {
-    "bankCode": "SCBank",
-    "logo": "https://api.vietqr.io/img/SCBank.png",
-    "bankName": "SCBank_Ngân hàng TNHH MTV Standard Chartered Bank Viet Nam"
+    "bankCode": "SC",
+    "logo": "https://api.vietqr.io/img/SC.png",
+    "bankName": "SC_Ngân hàng TNHH MTV Standard Chartered Bank Viet Nam"
+  },
+  {
+    "bankCode": "CBB",
+    "logo": "https://api.vietqr.io/img/CBB.png",
+    "bankName": "CBB_Ngân hàng TNHH MTV Xây dựng Viet Nam"
+  },
+  {
+    "bankCode": "COOPBANK",
+    "logo": "https://api.vietqr.io/img/COOPBANK.png",
+    "bankName": "COOPBANK_Ngân hàng TMCP Hợp tác xã Viet Nam"
+  },
+  {
+    "bankCode": "CAKE",
+    "logo": "https://api.vietqr.io/img/CAKE.png",
+    "bankName": "CAKE_Ngân hàng số CAKE by VPBank"
+  },
+  {
+    "bankCode": "SGB",
+    "logo": "https://api.vietqr.io/img/SGB.png",
+    "bankName": "SGB_Ngân hàng Sài Gòn Công Thương (SAIGON Bank)"
+  },
+  {
+    "bankCode": "ABB",
+    "logo": "https://api.vietqr.io/img/ABB.png",
+    "bankName": "ABB_Ngân hàng TMCP An Bình (ABBANK)"
+  },
+  {
+    "bankCode": "SCB",
+    "logo": "https://api.vietqr.io/img/SCB.png",
+    "bankName": "SCB_Ngân hàng TMCP Sài Gòn (SCB)"
+  },
+  {
+    "bankCode": "IVB",
+    "logo": "https://api.vietqr.io/img/IVB.png",
+    "bankName": "IVB_Ngân hàng trách nhiệm hữu hạn Indovina (IVB)"
+  },
+  {
+    "bankCode": "GDB/VCCB",
+    "logo": "https://api.vietqr.io/img/GDB/VCCB.png",
+    "bankName": "GDB/VCCB_Ngân hàng TMCP Bản Việt (VCCB)"
+  },
+  {
+    "bankCode": "OCB",
+    "logo": "https://api.vietqr.io/img/OCB.png",
+    "bankName": "OCB_Ngân hàng TMCP Phương Đông (OCB)"
+  },
+  {
+    "bankCode": "SEA",
+    "logo": "https://api.vietqr.io/img/SEA.png",
+    "bankName": "SEA_Ngân hàng TMCP Đông Nam Á (SEA)"
+  },
+  {
+    "bankCode": "LVB",
+    "logo": "https://api.vietqr.io/img/LVB.png",
+    "bankName": "LVB_Ngân hàng Thương mại Cổ phần Lộc Phát Việt Nam (LPBank)"
+  },
+  {
+    "bankCode": "WRB",
+    "logo": "https://api.vietqr.io/img/WRB.png",
+    "bankName": "WRB_Ngân hàng TNHH Woori Việt Nam (WRB)"
+  },
+  {
+    "bankCode": "SHNB",
+    "logo": "https://api.vietqr.io/img/SHNB.png",
+    "bankName": "SHNB_Ngân hàng TNHH MTV Shinhan Việt Nam(SHNB)"
+  },
+  {
+    "bankCode": "PVCOMBANK",
+    "logo": "https://api.vietqr.io/img/PVCOMBANK.png",
+    "bankName": "PVCOMBANK_Ngân hàng TMCP Đại Chúng Việt Nam (PVcomBank）"
+  },
+  {
+    "bankCode": "PBVN",
+    "logo": "https://api.vietqr.io/img/PBVN.png",
+    "bankName": "PBVN_Ngân hàng Public Bank Việt Nam (PBVN)"
+  },
+  {
+    "bankCode": "KLB",
+    "logo": "https://api.vietqr.io/img/KLB.png",
+    "bankName": "KLB_Ngân hàng Kiên Long Bank (KLB)"
+  },
+  {
+    "bankCode": "BVB",
+    "logo": "https://api.vietqr.io/img/BVB.png",
+    "bankName": "BVB_Ngân hàng BaoVietbank (BVB)"
+  },
+  {
+    "bankCode": "UOB",
+    "logo": "https://api.vietqr.io/img/UOB.png",
+    "bankName": "UOB_Ngân hàng TNHH MTV United Overseas Bank (UOB)"
+  },
+  {
+    "bankCode": "VRB",
+    "logo": "https://api.vietqr.io/img/VRB.png",
+    "bankName": "VRB_Ngân hàng Liên doanh Việt - Nga (VRB)"
+  },
+  {
+    "bankCode": "VB",
+    "logo": "https://api.vietqr.io/img/VB.png",
+    "bankName": "VB_Ngân hàng TMCP Việt Nam Thương Tín (VB)"
+  },
+  {
+    "bankCode": "HSBC",
+    "logo": "https://api.vietqr.io/img/HSBC.png",
+    "bankName": "HSBC_Ngân hàng TNHH MTV HSBC Viet Nam"
+  },
+  {
+    "bankCode": "HLB",
+    "logo": "https://api.vietqr.io/img/HLB.png",
+    "bankName": "HLB_Ngân hàng TNHH MTV Hong Leong Viet Nam"
+  },
+  {
+    "bankCode": "SC",
+    "logo": "https://api.vietqr.io/img/SC.png",
+    "bankName": "SC_Ngân hàng TNHH MTV Standard Chartered Bank Viet Nam"
   },
   {
     "bankCode": "CBB",
