@@ -135,7 +135,12 @@
     "bankName": "IVB_Ngân hàng trách nhiệm hữu hạn Indovina (IVB)"
   },
   {
-    "bankCode": "GDB/VCCB",
+    "bankCode": "GDB",
+    "logo": "https://api.vietqr.io/img/GDB/VCCB.png",
+    "bankName": "GDB/VCCB_Ngân hàng TMCP Bản Việt (VCCB)"
+  },
+  {
+    "bankCode": "VCCB",
     "logo": "https://api.vietqr.io/img/GDB/VCCB.png",
     "bankName": "GDB/VCCB_Ngân hàng TMCP Bản Việt (VCCB)"
   },
