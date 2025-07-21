@@ -1,0 +1,578 @@
+[
+  {
+    "bankCode": "SHBKP",
+    "bankName": "Shinhan Bank - Manila Branch"
+  },
+  {
+    "bankCode": "CTS",
+    "bankName": "City Savings Bank"
+  },
+  {
+    "bankCode": "TOKT",
+    "bankName": "TokTok Wallet Inc."
+  },
+  {
+    "bankCode": "CHASP",
+    "bankName": "JP Morgan Chase Bank, N.A- Manila Branch"
+  },
+  {
+    "bankCode": "MHCBP",
+    "bankName": "Mizuho Bank,Ltd. - Manila Branch"
+  },
+  {
+    "bankCode": "GW_PDX",
+    "bankName": "PDAX"
+  },
+  {
+    "bankCode": "GW_SSB",
+    "bankName": "Sun Savings Bank, Inc."
+  },
+  {
+    "bankCode": "PSCOP",
+    "bankName": "Producers Savings Bank Corporation"
+  },
+  {
+    "bankCode": "GW_GBY",
+    "bankName": "GrabPay"
+  },
+  {
+    "bankCode": "RCBC",
+    "bankName": "RCBC / DiskarTech"
+  },
+  {
+    "bankCode": "RBG",
+    "bankName": "Asenso"
+  },
+  {
+    "bankCode": "CTCBP",
+    "bankName": "CTBC Bank (Philippines) Corp"
+  },
+  {
+    "bankCode": "GW_UNO",
+    "bankName": "UNObank"
+  },
+  {
+    "bankCode": "CHSVP",
+    "bankName": "China Bank Savings"
+  },
+  {
+    "bankCode": "GW_TDB",
+    "bankName": "Tonik Bank"
+  },
+  {
+    "bankCode": "PHTBP",
+    "bankName": "Philippines Trust Company"
+  },
+  {
+    "bankCode": "RBR",
+    "bankName": "RURAL BANK OF ROSARIO (L.U.), INC."
+  },
+  {
+    "bankCode": "GW_APY",
+    "bankName": "Alipay / Lazada Wallet"
+  },
+  {
+    "bankCode": "RBT",
+    "bankName": "RBT BANK, INC. (A RURAL BANK)"
+  },
+  {
+    "bankCode": "QCDFP",
+    "bankName": "Queen City Development Bank"
+  },
+  {
+    "bankCode": "AZB",
+    "bankName": "AUSTRALIA-NEW ZEALAND BANK"
+  },
+  {
+    "bankCode": "OMNIP",
+    "bankName": "OMNIPAY"
+  },
+  {
+    "bankCode": "SME",
+    "bankName": "CARD SME Bank"
+  },
+  {
+    "bankCode": "PNBMP",
+    "bankName": "Philippine National Bank"
+  },
+  {
+    "bankCode": "BBPC",
+    "bankName": "BANGKOK BANK PUBLIC CO., LTD"
+  },
+  {
+    "bankCode": "QCRIP",
+    "bankName": "QUEZON CAPITAL RURAL BANK"
+  },
+  {
+    "bankCode": "CPHIP",
+    "bankName": "PBCOM"
+  },
+  {
+    "bankCode": "GXCH",
+    "bankName": "G-Xchange Inc. / GCash"
+  },
+  {
+    "bankCode": "CELRP",
+    "bankName": "Cebuana Lhuillier Bank"
+  },
+  {
+    "bankCode": "SMBC",
+    "bankName": "SUMITOMO MITSUI BANKING CORP"
+  },
+  {
+    "bankCode": "LPB",
+    "bankName": "LAND BANK OF THE PHILIPPINES"
+  },
+  {
+    "bankCode": "GW_BCH",
+    "bankName": "Bank of China"
+  },
+  {
+    "bankCode": "SCBLP",
+    "bankName": "Standard Chartered Bank - Manila Branch"
+  },
+  {
+    "bankCode": "BNSDPI",
+    "bankName": "BANGKO NUESTRA SEÑORA DEL PILAR, INC."
+  },
+  {
+    "bankCode": "BK",
+    "bankName": "BANGKO KABAYAN"
+  },
+  {
+    "bankCode": "TYBKP",
+    "bankName": "Yuanta Savinas Bank Philippines. Inc."
+  },
+  {
+    "bankCode": "BDO",
+    "bankName": "Banco de Oro (BDO)"
+  },
+  {
+    "bankCode": "BOFAP",
+    "bankName": "Bank of America, N.A - Manila Branch"
+  },
+  {
+    "bankCode": "UOBP",
+    "bankName": "UNITED OVERSEAS BANK PHILS."
+  },
+  {
+    "bankCode": "MBTCP",
+    "bankName": "Metrobank"
+  },
+  {
+    "bankCode": "GW_CMG",
+    "bankName": "Camalig Bank"
+  },
+  {
+    "bankCode": "EAWRP",
+    "bankName": "Komo / East West Rural Bank, Inc."
+  },
+  {
+    "bankCode": "RUGUP",
+    "bankName": "Rural Bank of Guinobatan, Inc."
+  },
+  {
+    "bankCode": "BMB",
+    "bankName": "Bangko Mabuhay"
+  },
+  {
+    "bankCode": "GW_NBK",
+    "bankName": "Netbank"
+  },
+  {
+    "bankCode": "AIIPP",
+    "bankName": "Amanah Islamic Bank"
+  },
+  {
+    "bankCode": "GW_MYA",
+    "bankName": "Maya Bank, Inc."
+  },
+  {
+    "bankCode": "COUKP",
+    "bankName": "Country Builders Bank, Inc"
+  },
+  {
+    "bankCode": "KOEXP",
+    "bankName": "KEB Hana Bank - Manila Branch"
+  },
+  {
+    "bankCode": "GW_UCPB",
+    "bankName": "United Coconut Planters Bank"
+  },
+  {
+    "bankCode": "GW_BDO",
+    "bankName": "BDO Unibank, Inc."
+  },
+  {
+    "bankCode": "GW_TPI",
+    "bankName": "TraxionPay/DigiCOOP/COOPNET"
+  },
+  {
+    "bankCode": "UBP",
+    "bankName": "UNION BANK OF THE PHILIPPINES"
+  },
+  {
+    "bankCode": "RARLP",
+    "bankName": "Rang-Ay Bank, Inc"
+  },
+  {
+    "bankCode": "ECAI",
+    "bankName": "ECASHPAY ASIA INC"
+  },
+  {
+    "bankCode": "ACI_RCBC",
+    "bankName": "Rizal Commercial Banking Corp."
+  },
+  {
+    "bankCode": "EPGEC",
+    "bankName": "Easy Pay Global EMI Corp"
+  },
+  {
+    "bankCode": "LFSH",
+    "bankName": "Lulu Financial Services"
+  },
+  {
+    "bankCode": "MKRUP",
+    "bankName": "Bank of Makati, Inc."
+  },
+  {
+    "bankCode": "GW_IRI",
+    "bankName": "I-Remit / iCASH"
+  },
+  {
+    "bankCode": "MAARP",
+    "bankName": "Malayan Bank Savings & Mortgaga Bank,Inc."
+  },
+  {
+    "bankCode": "MARCP",
+    "bankName": "MarCoPay"
+  },
+  {
+    "bankCode": "CHBKP",
+    "bankName": "China Bank"
+  },
+  {
+    "bankCode": "USSCP",
+    "bankName": "USSC"
+  },
+  {
+    "bankCode": "GW_ERB",
+    "bankName": "Entrepreneur Rural Bank, Inc./ENTRP"
+  },
+  {
+    "bankCode": "ALKBP",
+    "bankName": "AllBank, Inc."
+  },
+  {
+    "bankCode": "PRTOP",
+    "bankName": "PARTNER RURAL BANK"
+  },
+  {
+    "bankCode": "GW_SEA",
+    "bankName": "Seabank"
+  },
+  {
+    "bankCode": "BFB",
+    "bankName": "Banana Fintech / BananaPay"
+  },
+  {
+    "bankCode": "CUVC",
+    "bankName": "CATHAY UNITED BANK CO., LTD."
+  },
+  {
+    "bankCode": "GW_GOT",
+    "bankName": "GoTyme Bank"
+  },
+  {
+    "bankCode": "STARP",
+    "bankName": "STARPAY"
+  },
+  {
+    "bankCode": "CITIP",
+    "bankName": "Citibank, N.A. - Manila Branch"
+  },
+  {
+    "bankCode": "MVSMP",
+    "bankName": "MVSM Bank"
+  },
+  {
+    "bankCode": "BOTKP",
+    "bankName": "MUFG Bank,Ltd. - Manila Branch"
+  },
+  {
+    "bankCode": "UCPBC",
+    "bankName": "UCPB Savings Bank"
+  },
+  {
+    "bankCode": "IBKOP",
+    "bankName": "Industrial Bank of Korea - Manila"
+  },
+  {
+    "bankCode": "RUAT",
+    "bankName": "Bayanihan"
+  },
+  {
+    "bankCode": "TOPJ",
+    "bankName": "Topjuan Tech Corporation"
+  },
+  {
+    "bankCode": "BDOBK",
+    "bankName": "BDO Bank"
+  },
+  {
+    "bankCode": "WEDVP",
+    "bankName": "Wealth Development Bank Corp."
+  },
+  {
+    "bankCode": "GW_PPS",
+    "bankName": "PalawanPay"
+  },
+  {
+    "bankCode": "PNBC",
+    "bankName": "PNB"
+  },
+  {
+    "bankCode": "LBP",
+    "bankName": "LANDBANK / OFBank"
+  },
+  {
+    "bankCode": "GRBUP",
+    "bankName": "Guagua Rural Bank, Inc."
+  },
+  {
+    "bankCode": "BGB",
+    "bankName": "BanKo, A Subsidiary of BPI"
+  },
+  {
+    "bankCode": "SETCP",
+    "bankName": "Security Bank Corporation"
+  },
+  {
+    "bankCode": "GW_ZTI",
+    "bankName": "Zybi Tech Inc. / JuanCash"
+  },
+  {
+    "bankCode": "GW_IBI",
+    "bankName": "ISLA Bank (A Thrift Bank), Inc."
+  },
+  {
+    "bankCode": "GW_SPI",
+    "bankName": "SpeedyPay/eMango Pay"
+  },
+  {
+    "bankCode": "PHVBP",
+    "bankName": "Philippines Veterans Bank"
+  },
+  {
+    "bankCode": "SHOPP",
+    "bankName": "SHOPEEPAY"
+  },
+  {
+    "bankCode": "PAYMP",
+    "bankName": "PAYMAYA PHILIPPINES, INC."
+  },
+  {
+    "bankCode": "GW_PAS",
+    "bankName": "Pacific Ace Savings Bank"
+  },
+  {
+    "bankCode": "DEUTP",
+    "bankName": "Deutsche Bank AG - Manila Branch"
+  },
+  {
+    "bankCode": "IORUP",
+    "bankName": "Innovative Bank, Inc."
+  },
+  {
+    "bankCode": "GW_PRB",
+    "bankName": "Producers Bank"
+  },
+  {
+    "bankCode": "HBSBP",
+    "bankName": "HSBC Savings Bank,Inc."
+  },
+  {
+    "bankCode": "CRD",
+    "bankName": "CARD Bank Inc"
+  },
+  {
+    "bankCode": "INGBP",
+    "bankName": "ING Bank, N.V - Manila Branch"
+  },
+  {
+    "bankCode": "OWNB",
+    "bankName": "OWN BANK"
+  },
+  {
+    "bankCode": "BPI",
+    "bankName": "BANK OF THE PHIL. ISLANDS"
+  },
+  {
+    "bankCode": "CMRBI",
+    "bankName": "CARD MRI RIZAL BANK INC."
+  },
+  {
+    "bankCode": "DUMTP",
+    "bankName": "Dungganon Bank, Inc."
+  },
+  {
+    "bankCode": "PTC",
+    "bankName": "Philtrust Bank"
+  },
+  {
+    "bankCode": "MIOCP",
+    "bankName": "MINDANAO CONSOLIDATED COOPERATIVE BANK"
+  },
+  {
+    "bankCode": "GW_CIS",
+    "bankName": "CIS Bayad Center / Bayad"
+  },
+  {
+    "bankCode": "STLAP",
+    "bankName": "Sterling Bank of Asia, Inc."
+  },
+  {
+    "bankCode": "PTI",
+    "bankName": "Paynamics Technology Inc"
+  },
+  {
+    "bankCode": "CBC",
+    "bankName": "CHINA BANKING CORPORATION"
+  },
+  {
+    "bankCode": "BNORP",
+    "bankName": "BDO Network Bank"
+  },
+  {
+    "bankCode": "DBPHP",
+    "bankName": "Development Bank of the Philippines"
+  },
+  {
+    "bankCode": "AUBKP",
+    "bankName": "Asia United Bank Corporation"
+  },
+  {
+    "bankCode": "EWBCP",
+    "bankName": "East West Banking Corporation"
+  },
+  {
+    "bankCode": "VBRI",
+    "bankName": "VIGAN BANCO RURAL INCORPORADA"
+  },
+  {
+    "bankCode": "DCDEP",
+    "bankName": "Dumaguete City Development Bank, Inc."
+  },
+  {
+    "bankCode": "ROBPP",
+    "bankName": "Robinsons Bank Corporation"
+  },
+  {
+    "bankCode": "GW_PSB",
+    "bankName": "Philippine Savings Bank"
+  },
+  {
+    "bankCode": "BOFI",
+    "bankName": "BOF, INC (A RURAL BANK)"
+  },
+  {
+    "bankCode": "PPBUP",
+    "bankName": "Philippines Business Bank, Inc."
+  },
+  {
+    "bankCode": "GW_LSB",
+    "bankName": "Legazpi Savings Bank"
+  },
+  {
+    "bankCode": "GW_UDB",
+    "bankName": "UnionDigital Bank"
+  },
+  {
+    "bankCode": "EQSNP",
+    "bankName": "Equicom Savings Bank, Inc."
+  },
+  {
+    "bankCode": "PYMGO",
+    "bankName": "PayMongo"
+  },
+  {
+    "bankCode": "GW_PBC",
+    "bankName": "Philippine Bank of Communications"
+  },
+  {
+    "bankCode": "PABIP",
+    "bankName": "Bank of Commerce"
+  },
+  {
+    "bankCode": "CNRLP",
+    "bankName": "Cantilan Bank, Inc"
+  },
+  {
+    "bankCode": "MICB",
+    "bankName": "MEGA INTL COMML BANK CO. LTD"
+  },
+  {
+    "bankCode": "CIPHP",
+    "bankName": "CIMB Bank Philippines, Inc"
+  },
+  {
+    "bankCode": "RUDIP",
+    "bankName": "Rural Bank of Digos, Inc."
+  },
+  {
+    "bankCode": "MBBEP",
+    "bankName": "Maybank Philippines, Inc."
+  },
+  {
+    "bankCode": "GW_LDB",
+    "bankName": "Luzon Development Bank"
+  },
+  {
+    "bankCode": "LPBC",
+    "bankName": "LAGUNA PRESTIGE BANKING CORPORATI"
+  },
+  {
+    "bankCode": "HKSBC",
+    "bankName": "HK AND SHANGHAI BANKING CORP."
+  },
+  {
+    "bankCode": "BIU",
+    "bankName": "Binangonan Rural Bank / BRBDigital"
+  },
+  {
+    "bankCode": "GW_BPI",
+    "bankName": "BPI / BPI Family Savings Bank"
+  },
+  {
+    "bankCode": "GW_MET",
+    "bankName": "Metropolitan Bank and Trust Co."
+  },
+  {
+    "bankCode": "GW_TCI",
+    "bankName": "TayoCash"
+  },
+  {
+    "bankCode": "TRWI",
+    "bankName": "Wise Pilipinas Inc."
+  },
+  {
+    "bankCode": "ICBC",
+    "bankName": "INDUSTRIAL AND COMMERCIAL BANK OF CHINA"
+  },
+  {
+    "bankCode": "CUOBP",
+    "bankName": "Community Rural Bank of Romblon"
+  },
+  {
+    "bankCode": "GW_IEM",
+    "bankName": "Infoserve / Nationlink"
+  },
+  {
+    "bankCode": "GW_DCP",
+    "bankName": "DCPay / COINS.PH"
+  },
+  {
+    "bankCode": "GCASH",
+    "bankName": "GCach"
+  }
+]
