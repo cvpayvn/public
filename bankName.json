@@ -343,5 +343,105 @@
     "bankCode": "CAKE",
     "logo": "https://api.vietqr.io/img/CAKE.png",
     "bankName": "CAKE_Ngân hàng số CAKE by VPBank"
+  },
+{
+    "bankCode": "KBHN",
+    "logo": "https://api.vietqr.io/img/KBHN.png",
+    "bankName": "Ngân hàng Kookmin Bank chi nhánh Hanoi"
+  },
+  {
+    "bankCode": "UBANK",
+    "logo": "https://api.vietqr.io/img/Ubank.png",
+    "bankName": "Ngân hàng số Ubank by VPBank"
+  },
+  {
+    "bankCode": "NHBHN",
+    "logo": "https://api.vietqr.io/img/NHBHN.png",
+    "bankName": "Ngân hàng NongHyup chi nhánh Hanoi"
+  },
+  {
+    "bankCode": "KBANK",
+    "logo": "https://api.vietqr.io/img/Kbank.png",
+    "bankName": "Ngân hàng Dai chung TNHH Kasikornbank"
+  },
+  {
+    "bankCode": "BNP",
+    "logo": "https://api.vietqr.io/img/BNP.png",
+    "bankName": "Ngân hàng BNP Paribas"
+  },
+  {
+    "bankCode": "CIMB",
+    "logo": "https://api.vietqr.io/img/CIMB.png",
+    "bankName": "Ngân hàng CIMB Vietnam"
+  },
+  {
+    "bankCode": "DBS",
+    "logo": "https://api.vietqr.io/img/DBS.png",
+    "bankName": "Ngân hàng TNHH MTV phát triển Singapore"
+  },
+  {
+    "bankCode": "KBHCM",
+    "logo": "https://api.vietqr.io/img/KBHCM.png",
+    "bankName": "Ngân hàng Kookmin - Chi nhánh HCM"
+  },
+  {
+    "bankCode": "IBK",
+    "logo": "https://api.vietqr.io/img/IBK.png",
+    "bankName": "Ngân hàng Cong Nghiep Han Quoc CN Ha Noi"
+  },
+  {
+    "bankCode": "TIMO",
+    "logo": "https://api.vietqr.io/img/TIMO.png",
+    "bankName": "Ngân hàng số TIMO - Bản Việt"
+  },
+  {
+    "bankCode": "UMEE",
+    "logo": "https://api.vietqr.io/img/UMEE.png",
+    "bankName": "Ngân hàng số Umee - Kiên Long"
+  },
+  {
+    "bankCode": "IBKHCM",
+    "logo": "https://api.vietqr.io/img/IBKHCM.png",
+    "bankName": "Ngân hàng Công nghiệp Hàn Quốc CN HCM"
+  },
+  {
+    "bankCode": "CTB",
+    "logo": "https://api.vietqr.io/img/CTB.png",
+    "bankName": "Ngân hàng CITIBANK Việt Nam (Citibank)"
+  },
+  {
+    "bankCode": "MAFC",
+    "logo": "https://api.vietqr.io/img/MAFC.png",
+    "bankName": "Công ty Tài chính TNHH MTV Mirae Asset Việt Nam"
+  },
+  {
+    "bankCode": "KEBHANAHN",
+    "logo": "https://api.vietqr.io/img/KEBHANAHN.png",
+    "bankName": "Ngân hàng KEB Hana CN Ha Noi"
+  },
+  {
+    "bankCode": "KEBHANAHCM",
+    "logo": "https://api.vietqr.io/img/KEBHANAHCM.png",
+    "bankName": "Ngân hàng KEB Hana CN Ho Chi Minh"
+  },
+  {
+    "bankCode": "VNSPB",
+    "logo": "https://api.vietqr.io/img/VNSPB.png",
+    "bankName": "Ngân hàng Chính sách Xã hội (Vietnam Bank)"
+  },
+  {
+    "bankCode": "LIOBANK",
+    "logo": "https://api.vietqr.io/img/LIOBANK.png",
+    "bankName": "Ngân hàng số Liobank NH Phương đông"
+  },
+  {
+    "bankCode": "VNPTMONEY",
+    "logo": "https://api.vietqr.io/img/VNPTMONEY.png",
+    "bankName": "VNPT Money"
+  },
+  {
+    "bankCode": "VIETELMONEY",
+    "logo": "https://api.vietqr.io/img/VIETELMONEY.png",
+    "bankName": "Viettel Money"
   }
 ]
