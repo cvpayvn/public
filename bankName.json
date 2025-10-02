@@ -443,5 +443,30 @@
     "bankCode": "VIETELMONEY",
     "logo": "https://api.vietqr.io/img/VIETELMONEY.png",
     "bankName": "Viettel Money"
+  },
+  {
+    "bankCode": "CUBHCM",
+    "logo": "https://api.vietqr.io/img/CUBHCM.png",
+    "bankName": "Cathay United Bank"
+  },
+  {
+    "bankCode": "BIDC",
+    "logo": "https://api.vietqr.io/img/BIDC.png",
+    "bankName": "Đầu tư và Phát triển Campuchia"
+  },
+  {
+    "bankCode": "VIKKI",
+    "logo": "https://api.vietqr.io/img/VIKKI.png",
+    "bankName": "Vikki by HDBank"
+  },
+  {
+    "bankCode": "BOCHK",
+    "logo": "https://api.vietqr.io/img/BOCHK.png",
+    "bankName": "Ngân hàng Bank of China (Hongkong) Limited"
+  },
+  {
+    "bankCode": "MVAS",
+    "logo": "https://api.vietqr.io/img/MVAS.png",
+    "bankName": "Trung tâm Dịch vụ số Mobifone "
   }
 ]
