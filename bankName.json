@@ -426,12 +426,6 @@
     "pin": "971032"
   },
   {
-    "bankCode": "MBV",
-    "logo": "https://api.vietqr.io/img/MBV.png",
-    "bankName": "Ngân hàng TNHH MTV Việt Nam Hiện Đại",
-    "pin": "970414"
-  },
-  {
     "bankCode": "MOMO",
     "logo": "https://api.vietqr.io/img/MOMO.png",
     "bankName": "Công ty Cổ phần Dịch vụ Di động Trực tuyến",
